@@ -11,6 +11,5 @@ Average Link Proximity:<br>
 Question 2<br>
 1)	Read the csv file using read_csv() of pandas library and replace all the none values with mean value<br>
 2)	Apply StandardScaler() and normalize() functions to scale and normalize raw input data.<br>
-3)	3)	 Apply Agglomerative Clustering with k=2,3,4 and 5 on reduced features and visualize result for each k value using scatter plot.<br>
-For K=2<br>
+3)	Apply Agglomerative Clustering with k=2,3,4 and 5 on reduced features and visualize result for each k value using scatter plot.<br>
 4)	Evaluated Silhouette Scores for different variants and results are visualized.<br>
